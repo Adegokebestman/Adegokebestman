@@ -1,10 +1,9 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 - 🤔 I’m looking for help with 
 **Adegokebestman/Adegokebestman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my personal website 
 - 🌱 I’m currently learning React.js and Node.js
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: adegokebestman@gmail.com 
 - 😄 Pronouns:he/him 
 - ⚡ Fun fact: loves to read manga 
--->
+
