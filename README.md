@@ -17,7 +17,7 @@ Here’s a bit about me:
   I'm interested in contributing to open-source projects and working on innovative web applications. If you have a cool idea, let’s connect!
 
 - 💬 Ask Me About:
-  - Building websites and landing pages with Next.js, Framer, or Tailwind CSS
+  - Building websites and landing pages with Next.js, Tailwind CSS and low code tools like Webflow and Framer.
   - Improving conversion rates with sales funnels
   - Freelancing tips and starting your own design agency
     
